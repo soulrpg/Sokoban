@@ -1,0 +1,4 @@
+﻿  Level.cpp
+C:\Users\Michal\source\repos\Sokoban\Level.cpp(210,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michal\source\repos\Sokoban\Level.cpp(63): warning C4715: 'Level::search_for_player': not all control paths return a value
+  Sokoban.vcxproj -> C:\Users\Michal\source\repos\Sokoban\Debug\Sokoban.exe
